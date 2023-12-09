@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Eze Chukwuemeka
-- 👀 I’m interested in a Data Analytics Role
-- 🌱 I’m currently learning on how to effectively use the Microsoft Fabric tool
-- 💞️ I’m looking to collaborate with you with the use of my Soft and Technical Skills towards creating insightful decisions for business growth.
+- 👀 I’m a Data Analyst
+- 🌱 I am a very passionate and skilled Data Analyst with three years experience in Excel, SQL, and Data Visualization tools
+such as PowerBI and Tableau.
+- 💞️ I am willing to collaborate with you so as to contribute to a dynamic team in improving team operations. With a comprehensive understanding of data analysis and excellent reporting 
+and presentation skills, I am dedicated to producing insightful and actionable data analysis. Committed to expanding my technical and soft skills to drive success and make a positive impact on the company’s growth.
 - 📫 How to reach me on ezejunior022@gmail.com
 
 <!---
